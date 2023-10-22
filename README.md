@@ -1,4 +1,4 @@
-***Student Table Creator***
+# Student Table Creator 
 
 This repository contains a C++ program that implements a simple menu-driven information management system. The program allows users to perform the following actions:
 
